@@ -1,2 +1,2 @@
-# ui
-simple ui stuff to polish my skills
+ui
+> simple ui stuff to polish my skills
